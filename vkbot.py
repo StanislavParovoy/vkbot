@@ -2,7 +2,7 @@ import vk_api
 from vk_api.longpoll import VkLongPoll, VkEventType
 
 # API токен сообщества
-аmytoken='ваш токен'
+mytoken='ваш токен'
 
 # Функция посылающая сообщение
 def write_msg(user_id, message):
